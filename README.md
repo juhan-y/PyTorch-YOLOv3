@@ -26,6 +26,8 @@ https://colab.research.google.com/drive/1tFRKda4d6vKD6geag0WNzkU8y5DA8X9U?usp=sh
 https://github.com/eriklindernoren/PyTorch-YOLOv3 erik lindernoren ML engineer at Apple.
 
 
+# Explanation in korean
+
 ![image](https://user-images.githubusercontent.com/81463668/113806071-a0005200-979c-11eb-9119-ea0836336c90.png)
 
 train.py는 간략하게 말하자면 제작자가 미리 만든 hyperparameter들을 이용해 모델에 적용,
