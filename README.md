@@ -1,4 +1,6 @@
-## kookmin university '차량지능기초' first assignment.
+### 코드에 주석을 달아 설명한 파일은 train.py, test.py, models.py입니다. 폴더에 들어가서 확인하실 수 있습니다.
+
+# kookmin university '차량지능기초' first assignment.
 ## Hi I'm juhan yoon. there's summary below the lines. please read the lines before see my sources.
 
 # PyTorch-YOLOv3
